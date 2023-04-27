@@ -1,0 +1,21 @@
+{
+    "user_login": [
+        {
+            "username_edit": "AlokChatterjee@gmail.com",
+            "password_edit": "A12345"
+        },
+        {
+            "username_edit": "Deb Chatterjee",
+            "password_edit": "D12345"
+        },
+        {
+            "username_edit": "kishorechatterjee93@gmail.com",
+            "password_edit": "K12345"
+        },
+        {
+            "username_edit": "abcd@gmail.com",
+            "password_edit": "a@12345"
+        }
+
+    ]
+}
